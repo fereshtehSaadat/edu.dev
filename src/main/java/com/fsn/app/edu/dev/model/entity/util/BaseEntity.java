@@ -1,8 +1,8 @@
-package com.fsn.app.edu.dev.model.util;
+package com.fsn.app.edu.dev.model.entity.util;
 
-import com.fsn.app.edu.dev.model.util.codes.ColumnDefinitionType;
-import com.fsn.app.edu.dev.model.util.codes.FieldName;
-import com.fsn.app.edu.dev.model.util.codes.SequenceName;
+import com.fsn.app.edu.dev.model.entity.util.codes.ColumnDefinitionType;
+import com.fsn.app.edu.dev.model.entity.util.codes.FieldName;
+import com.fsn.app.edu.dev.model.entity.util.codes.SequenceName;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;

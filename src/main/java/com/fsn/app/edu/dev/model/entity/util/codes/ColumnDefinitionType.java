@@ -1,4 +1,4 @@
-package com.fsn.app.edu.dev.model.util.codes;
+package com.fsn.app.edu.dev.model.entity.util.codes;
 
 public interface ColumnDefinitionType {
 

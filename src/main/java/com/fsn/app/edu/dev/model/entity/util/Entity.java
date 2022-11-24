@@ -1,4 +1,4 @@
-package com.fsn.app.edu.dev.model.util;
+package com.fsn.app.edu.dev.model.entity.util;
 
 import java.sql.Timestamp;
 
